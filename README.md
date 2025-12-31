@@ -23,8 +23,8 @@ The analysis shows that colour clusters derived from natural images align signif
 focal-colour-predictor/
 ├── project.ipynb              # Main analysis notebook\
 ├── projectpreliminary.ipynb              # Main analysis notebook
-├── wcs_helper_functions.py    # Helper functions (ommitted)
-├── WCS_data_core/            # World Color Survey data files (ommitted)
+├── wcs_helper_functions.py    # Helper functions
+├── WCS_data_core/            # World Color Survey data files
 │   ├── term.txt              # Colour naming data
 │   ├── foci-exp.txt          # Focal colour data
 │   ├── chip.txt              # Colour chip specifications
